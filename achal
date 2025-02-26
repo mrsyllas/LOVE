@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
+<audio id="loveMusic" src="https://dl.mehrdl.top/Music/A/B/New/Siavash%20Ghomayshi-Alaki-128.mp3?_=1"></audio>
+<button onclick="document.getElementById('loveMusic').play()">❤️ پخش موسیقی ❤️</button>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>برای عشق من ❤️</title>
@@ -48,7 +51,8 @@
     <h1>❤️ اچلم ❤️</h1>
     <p>اندازه تمام شن ها و ریگ های زمین، قطره قطره اقیانوس‌ها،<br>
        همه ستاره ها و کهکشان‌ها، قد کیهان و کهکشان و ثریا ....<br>
-       دوستت دارم تا ابد و برای همیشه! 💕</p>
+       دوستت دارم
+تا ابد و برای همیشه! 💕</p>
     
     <audio autoplay loop>
         <source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mpeg">
